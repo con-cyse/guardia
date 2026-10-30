@@ -39,6 +39,10 @@ yarn-error.*
 .claude/settings.local.json
 credentials.json
 
+# local design references
+/design-system/
+/mockup/
+
 # typescript
 *.tsbuildinfo
 
